@@ -40,8 +40,7 @@ Users should be able to:
 
 ### Built with
 
-- Figma
-- Flexbox
+- React js 
 - DOM Manipulation
 - JSON
 - [Sass (SCSS)](https://styled-components.com/) - CSS extension language
