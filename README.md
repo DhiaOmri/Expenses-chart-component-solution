@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: <https://github.com/DhiaOmri/Expenses-chart-component-solution/>
-- Live Site URL: <https://gdsimoes.github.io/expenses-chart-component/>
+- Live Site URL: <https://dhiaomri.github.io/Expenses-chart-component-solution//>
 
 ## My process
 
