@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expenses-chart-component-solution/static/css/main.ceb23c86.css",
+    "main.js": "/Expenses-chart-component-solution/static/js/main.a05f0667.js",
+    "index.html": "/Expenses-chart-component-solution/index.html",
+    "main.ceb23c86.css.map": "/Expenses-chart-component-solution/static/css/main.ceb23c86.css.map",
+    "main.a05f0667.js.map": "/Expenses-chart-component-solution/static/js/main.a05f0667.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceb23c86.css",
+    "static/js/main.a05f0667.js"
+  ]
+}
