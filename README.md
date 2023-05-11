@@ -45,25 +45,6 @@ Users should be able to:
 - JSON
 - [Sass (SCSS)](https://styled-components.com/) - CSS extension language
 
-### What I learned
-
-This is a simple website, but I used this opportunity to learn new techniques and try different things.
-
-It's my first project in a while using **Sass**, and my main reason for doing so is that I wasn't satisfied with the number of `calc` calls I had to write in my previous project. With **Sass**, I can have something like this:
-
-```scss
-font-size: ((15 * 100)/375) * 1vw;
-```
-
-and it gets compiled to:
-
-```css
-font-size: 4vw;
-```
-
-I also tried a different approach to responsive design for larger screens. Instead of using relative units like `em`, `rem`, and `vw`, I mostly used `px` and the `transform` property to scale my design to the correct size. This approach made my workflow more straightforward, and with the time I saved, I could pay a lot of attention to details, like animations when the graph is populated and when the mouse goes over the graph bars.
-
-Finally, I used **JavaScript** to read the **JSON** file and dynamically populate the graph. Changing this code to read the data from an actual database would be trivial.
 
 ### Continued development
 
