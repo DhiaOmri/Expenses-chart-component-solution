@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <https://github.com/DhiaOmri/Expenses-chart-component-solution/> -->
-<!-- - Live Site URL: <https://gdsimoes.github.io/expenses-chart-component/>
+- Solution URL: <https://github.com/DhiaOmri/Expenses-chart-component-solution/>
+- Live Site URL: <https://gdsimoes.github.io/expenses-chart-component/>
 
 ## My process
 
